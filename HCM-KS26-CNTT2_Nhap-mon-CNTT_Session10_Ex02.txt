@@ -1,0 +1,5 @@
+Bài 2 : Khắc phục sự cố dữ liệu trong kho thiết bị IoT
+Phần 1:các lỗi bảng tính hiện tại đang vi phạm các quy tắc vàng
+- lỗi 1:Có hàng trống giữa dữ liệu làm đứt quãng vùng nhận diện và điều đó khiến nút filter biến mất ngay giữa bảng
+- lỗi 2: Hàng tiêu đề bị merge khiến Excel không biết chính xác ranh giới của cột ,làm filter bị mất
+- lỗi 3:có các khoảng trắng thừa tạo ra các cú pháp khác biệt như ("hỏng" không dấu cách , "hỏng " có dấu cách) khiến excels lọc không chính xác
